@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 I'm Jadesola and I am a prospective Computer Scientist based in the United Kingdom. My main language is Python but I am also familiar
 with  the main Web Technolgoies langauges (HTML, CSS, PHP, JavaScript). My main interests are in routing algorithms and natural language processing, particularly for underrepresented languages with limited text resources.
 
