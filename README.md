@@ -6,7 +6,7 @@ with  the main Web Technologies langauges (HTML, CSS, PHP, JavaScript). My main 
 
 - 🔭 I’m currently working on a movie recommendation algorithm for my A Level NEA project.
 - 🌱 I’m currently learning json and HTTP methods
-- 👯 I’m looking to collaborate on entry-level NLP project
+- 👯 I’m looking to collaborate on entry-level NLP projects
 - 📫 How to reach me: ...
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I can converse in three languages! (English, Yoruba and Spanish)
