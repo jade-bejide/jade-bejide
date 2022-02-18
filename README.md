@@ -1,20 +1,22 @@
 ### Hi there 👋
 
 
-I'm Jadesola and I am a first year Computer Science student based in the United Kingdom. I am looking for first year undergraduate student internships.
+I'm Jadesola (ja-day-soh-la) and I am a first year Computer Science student based in the United Kingdom. I am looking for first year undergraduate student internships.
 
 <u>Skillset:</u>
 
 Strengths
 <ul>
-  <li>Python / HTTP Requests / SQL Databases (MySQL, SQLite</li>
+  <li>C / Haskell / Python / HTTP Requests / SQL Databases (MySQL, SQLite) / Linux</li>
  </ul>
  
 Currently Developing My Skills In:
 <ul>
-   <li>C++ (towards building desktop and cross-platform mobile) applications</li>
-    <li>Data Science and Machine Learning (in correspondence to my interests in Recommender Systems)</li>
+   <li>Java</li>
+    <li>Data Engineering and Machine Learning (in correspondence to my interests in Recommender Systems and NLP)</li>
  </ul>
+ 
+ Looking for Internships in Machine Learning!
 
 
 
