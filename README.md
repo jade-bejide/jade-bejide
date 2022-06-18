@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Jadesola (ja-day-soh-la) and I am a first year Computer Science student based in the United Kingdom. I am looking for first year undergraduate student internships.
+I'm Jadesola (ja-day-soh-la) and I am a second year Computer Science student based in the United Kingdom. I am looking for second year undergraduate student internships.
 
 <u>Skillset:</u>
 
