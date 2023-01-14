@@ -17,7 +17,3 @@ Currently Developing My Skills In:
  </ul>
 
 I am looking to obtain mentorship in a career in industry research.
-
-[![Jadesola Bejide's github stats](https://github-readme-stats.vercel.app/api?username=jade-bejide)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jade-bejide)
