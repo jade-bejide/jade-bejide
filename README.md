@@ -7,8 +7,7 @@ I'm Jadesola (ja-day-soh-la) and I am a third year Computer Science student base
 
 
 - Most of my current projects use FastAPI + Python on the backend
-- My top languages are Python, Java and Dart; I'm also proficient in Golang and C
-- I'm currently developing my skills in Machine Learning
+- My top languages are Python, Java, TypeScript and C. I am also proficient in Golang and Dart
 
 **Stats**
 
